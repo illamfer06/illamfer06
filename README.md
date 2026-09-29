@@ -78,9 +78,9 @@ I enjoy learning by building real projects, understanding how systems work and a
 
 ## 🚀 Proyecto principal / Main Project
 
-### Programming Study Platform
+### [DevTrack](https://github.com/illamfer06/devtrack.git)
 
-**[ES]** Actualmente estoy desarrollando una aplicación pensada para ayudar a estudiantes de programación a organizar y repasar problemas de código.
+**[ES]** Actualmente estoy desarrollando **DevTrack**, una aplicación pensada para ayudar a estudiantes de programación a organizar y repasar problemas de código.
 
 La aplicación permite guardar información como:
 
@@ -94,7 +94,7 @@ El backend está desarrollado como una **API REST** utilizando Java y Spring Boo
 
 También estoy preparando un servidor basado en **Ubuntu** donde planeo desplegar y alojar la aplicación, lo que me está permitiendo aprender sobre Linux, administración básica de servidores y despliegue de aplicaciones.
 
-**[EN]** I am currently developing an application designed to help programming students organize and review coding problems.
+**[EN]** I am currently developing **DevTrack**, an application designed to help programming students organize and review coding problems.
 
 The application allows users to store information such as:
 
