@@ -8,15 +8,11 @@ I'm a **Computer Engineering student at the University of Málaga**, with a prev
 
 ## 👩‍💻 Sobre mí / About Me
 
-**[ES]** Empecé mi trayectoria universitaria estudiando Matemáticas, donde desarrollé una base sólida de razonamiento lógico y resolución de problemas. Durante esos años descubrí la programación, primero con **Python** y **Scala**, y poco a poco me interesé cada vez más por la informática y el desarrollo de software.
-
-Actualmente estudio Ingeniería Informática y estoy centrando mi aprendizaje en **desarrollo backend, bases de datos y construcción de aplicaciones**. También me interesa seguir explorando áreas como la **Inteligencia Artificial, los datos y la ciberseguridad**.
+**[ES]** Empecé mi trayectoria universitaria estudiando Matemáticas, donde desarrollé una base sólida de razonamiento lógico y resolución de problemas. Actualmente estudio Ingeniería Informática y estoy centrando mi aprendizaje en **desarrollo backend, bases de datos y construcción de aplicaciones**. También me interesa seguir explorando áreas como la **Inteligencia Artificial, los datos y la ciberseguridad**.
 
 Me gusta aprender desarrollando proyectos reales, entender cómo funcionan los sistemas y aplicar la tecnología para resolver problemas.
 
-**[EN]** I started my university journey studying Mathematics, where I developed a strong foundation in logical thinking and problem solving. During those years, I discovered programming through **Python** and **Scala**, which gradually led me towards Computer Engineering and software development.
-
-I am currently studying Computer Engineering and focusing my learning on **backend development, databases and application development**. I am also interested in exploring areas such as **Artificial Intelligence, data and cybersecurity**.
+**[EN]** I started my university journey studying Mathematics, where I developed a strong foundation in logical thinking and problem solving. I am currently studying Computer Engineering and focusing my learning on **backend development, databases and application development**. I am also interested in exploring areas such as **Artificial Intelligence, data and cybersecurity**.
 
 I enjoy learning by building real projects, understanding how systems work and applying technology to solve problems.
 
